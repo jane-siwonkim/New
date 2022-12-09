@@ -8,4 +8,4 @@ tuist clean --path ..
 tuist fetch --path ..
 tuist generate --path ..
 
-echo "😢"
+echo "😝"
